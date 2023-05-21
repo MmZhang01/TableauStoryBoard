@@ -1,7 +1,11 @@
 # TableauStoryBoard
 
-## This storyboard tells a story about Lebron, a legend basketball player in NBA.
+This storyboard tells a story about Lebron James, a legend basketball player in NBA. 
+You would learn why Lebron James is the greatest in this generation.
 
+Download twbx file for further details!
+
+## overview: 
 ![image](https://github.com/MmZhang01/TableauStoryBoard/assets/100859492/17f492d9-6fed-4654-ad1c-6fcad1d6e87e)
 ![image](https://github.com/MmZhang01/TableauStoryBoard/assets/100859492/dd8c62ca-ab0a-473e-86b0-ea7b69cef2dc)
 ![image](https://github.com/MmZhang01/TableauStoryBoard/assets/100859492/4990578f-a6ea-40c6-82b2-f261ea663978)
@@ -17,8 +21,3 @@
 ![image](https://github.com/MmZhang01/TableauStoryBoard/assets/100859492/b7fca8d0-5207-4ae0-959e-dcfab9fdc45e)
 ![image](https://github.com/MmZhang01/TableauStoryBoard/assets/100859492/050aac7a-6608-4dcb-b578-4d864458fa91)
 ![image](https://github.com/MmZhang01/TableauStoryBoard/assets/100859492/6b787972-996e-42b3-b82b-afe954e717af)
-
-
-## ppt file is an overview of this story board.
-
-## download twbx file to get more detail about Lebron!!
